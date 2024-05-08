@@ -56,6 +56,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - `srcset` attribute images for different devices
 - to use `@media` in `<picture>` tag
 - to ensure correlation between the @media break to change image, and the grid break from 1 column to 2 columns.
+- it took me more hours than what i was expected
 
 ```html
 <picture>
